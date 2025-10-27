@@ -1,3 +1,4 @@
-selenmium
-selenium webdriver-manager
+selenium
+webdriver-manager
 beautifulsoup4
+pandas
